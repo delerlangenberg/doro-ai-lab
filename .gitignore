@@ -12,7 +12,7 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# Large datasets
+# Large datasets (keep placeholder)
 datasets/*
 !datasets/README.md
 
@@ -20,6 +20,7 @@ datasets/*
 models/*.pkl
 models/*.h5
 models/*.pt
+models/*.onnx
 
 # OS / Editor
 .vscode/
