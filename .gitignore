@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Environments
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large datasets
+datasets/*
+!datasets/README.md
+
+# Model artifacts
+models/*.pkl
+models/*.h5
+models/*.pt
+
+# OS / Editor
+.vscode/
+.DS_Store
